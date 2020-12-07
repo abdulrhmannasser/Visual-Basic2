@@ -1,0 +1,72 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Hairdresser
+</name>
+</assembly>
+<members>
+<member name="P:Hairdresser.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Hairdresser.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Hairdresser.My.Resources.Resources.beauty_center">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hairdresser.My.Resources.Resources.body_care___all">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hairdresser.My.Resources.Resources.body_care___leg_care">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hairdresser.My.Resources.Resources.body_care__hand_nail">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hairdresser.My.Resources.Resources.hair_cut___long_hair">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hairdresser.My.Resources.Resources.hair_cut___short_hair">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hairdresser.My.Resources.Resources.hair_mask___argan_oil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hairdresser.My.Resources.Resources.hair_mask__oil_natural">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hairdresser.My.Resources.Resources.makeup___formal">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hairdresser.My.Resources.Resources.makeup___simple">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hairdresser.My.Resources.Resources.skin_care___deep_clean">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hairdresser.My.Resources.Resources.skin_care___simple_care">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Hairdresser.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
